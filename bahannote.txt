@@ -1,0 +1,50 @@
+<div class="row">
+
+	<button class="btn btn-md btn-custom" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                    <span class="glyphicon glyphicon-menu-down"></span>
+    </button>
+    <div class="collapse" id="collapseExample">
+                  <div class="well">
+                   For complete control of how your camera will take the photos it’s best to shoot in manual. When you reach an area of interest, snap a few test shots to make sure your settings (ISO, Shutter Speed & Aperture) are going to give you that dynamic image you’re looking to capture.
+                   </div>
+    </div>
+
+
+    <button class="btn btn-md btn-custom" data-toggle="collapse" data-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample">
+                    <span class="glyphicon glyphicon-menu-down"></span>
+	</button>
+	<div class="collapse" id="collapseExample2">
+                  <div class="well">
+                   When looking to capture cityscapes it’s best to go out early in the morning or late at night. It really depends on the city and when it “wakes up” and goes to “sleep”. Doing this allows you to shoot completely uninterrupted and you’ll be able to get as many shots as you need until the “right” image is captured.
+                   If the goal is to get some candid photos of the public or street portraits, it’s best to find a densely populated area, do your best not to disrupt the natural flow and then start snapping away. To be discrete, try using the “quiet shutter” option on your camera, or pull out your smart phone.
+                   </div>
+ 	 </div>
+
+ 	 <button class="btn btn-md btn-custom" data-toggle="collapse" data-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample">
+                    <span class="glyphicon glyphicon-menu-down"></span>
+     </button>
+   <div class="collapse" id="collapseExample2">
+                  <div class="well">
+                   When looking to capture cityscapes it’s best to go out early in the morning or late at night. It really depends on the city and when it “wakes up” and goes to “sleep”. Doing this allows you to shoot completely uninterrupted and you’ll be able to get as many shots as you need until the “right” image is captured.
+                   If the goal is to get some candid photos of the public or street portraits, it’s best to find a densely populated area, do your best not to disrupt the natural flow and then start snapping away. To be discrete, try using the “quiet shutter” option on your camera, or pull out your smart phone.
+                   </div>
+   </div>
+
+   <button class="btn btn-md btn-custom" data-toggle="collapse" data-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample">
+                    <span class="glyphicon glyphicon-menu-down"></span>
+                </button>
+ 	<div class="collapse" id="collapseExample3">
+                  <div class="well">
+                   This is the fun part of street photography, venturing into “No Mans” land and finding what society has forgotten about or left behind. When going into abandoned or “shady” areas, don’t make a habit of going alone. Go with a buddy that has some urban exploration in their wheelhouse. Also, try to do a little homework on the building, make the trip as safe as possible, considering some of the buildings could have fire/water or weather damage. 
+                    </div>
+ 	 </div>
+	
+	<button class="btn btn-md btn-custom" data-toggle="collapse" data-target="#collapseExample4" aria-expanded="false" aria-controls="collapseExample">
+                    <span class="glyphicon glyphicon-menu-down"></span>
+    </button>
+    <div class="collapse" id="collapseExample4">
+                  <div class="well">
+                   Depending on the situation or the possible distraction you’ll cause by taking the picture, try asking your person of interest if you can take their photo. It’s usually always cool, and they’ll typically give you an IG follow if they think you’ll post them.
+                   </div>
+    </div>
+
